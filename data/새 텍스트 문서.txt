@@ -1,0 +1,1 @@
+ground truth에 관해서 data로 만들어 놓은 것
